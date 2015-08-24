@@ -15,4 +15,6 @@ public string GetString (int index)
 6. si es posible, por que la clase object es el papa de todas las clases que crean objetos.
 7. Haciendo un cast.
 8. si se puede, pero no es correcto, solo se deberia meter cadenas.
+18. t tiene una restricciones tiene que estar efinido tipo class.
+
 
